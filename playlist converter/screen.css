@@ -1,0 +1,81 @@
+@media screen and (max-width:786px)
+{
+    .navbar{
+        width: 88%;
+        margin: auto;
+        padding: 7px 0;
+        display: flex;
+        align-items: center;
+    }
+
+    .left h1 {
+        font-size: 40px;
+        color: #b346fc;
+        line-height: 40px;
+        margin: 40px;
+        justify-content: center;
+    }
+    
+    .left h2{
+        color: #fff;
+        line-height: 30px;
+        font-size: 18px;
+        margin: 20px;
+    }
+
+    .right{
+        display: flex;
+        margin-right: 35%;
+        margin-top: 20px;
+        align-items: center;
+    }
+
+.hero .about {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    border: none;
+}
+
+.hero .about h1 {
+    font-size: 40px;
+    color: #b346fc;
+  }
+
+  .hero .about p {
+    font-size: 18px;
+  }
+
+}
+
+/* Styles for larger screens */
+/* .left h1 {
+    font-size: 36px;
+  }
+  
+  .left h2 {
+    font-size: 18px;
+  } */
+  
+  /* Centering the content */
+  /* .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+   */
+  /* Media queries for smaller screens */
+  /* @media only screen and (max-width: 768px) {
+    .left h1 {
+      font-size: 24px;
+    }
+  
+    .left h2 {
+      font-size: 14px;
+    }
+  }
+   */
+
+   
